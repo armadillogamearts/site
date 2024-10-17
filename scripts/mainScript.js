@@ -21,12 +21,12 @@ function loadTemplate(id, file) {
 function chooseLang(langSelect){
     switch (langSelect){
         case 1:{
-            window.location.href = '/pages/PT/home.html';
+            window.location.href = '/site/pages/PT/home.html';
             break;
 
         }
         case 2:{
-            window.location.href = '/pages/ENG/home.html';
+            window.location.href = '/site/pages/ENG/home.html';
             break;
 
         }
@@ -44,36 +44,36 @@ function buttonSwitchPT(clickedBtn){
 
         case 1:{
     
-            window.location.href = '/pages/PT/home.html';
+            window.location.href = '/site/pages/PT/home.html';
             break;
         }
         case 2:{
-            window.location.href = '/pages/PT/servicos.html';
+            window.location.href = '/site/pages/PT/servicos.html';
             break;
     
         }
         case 3:{
-            window.location.href = '/pages/PT/portfolio.html';
+            window.location.href = '/site/pages/PT/portfolio.html';
             break;
     
         }
         case 4:{
-            window.location.href = '/pages/PT/sobre.html';
+            window.location.href = '/site/pages/PT/sobre.html';
             break;
     
         }
         case 5:{
-            window.location.href = '/pages/PT/contato.html';
+            window.location.href = '/site/pages/PT/contato.html';
             break;
     
         }
         case 6:{
-            window.location.href = '/pages/PT/programacao.html';
+            window.location.href = '/site/pages/PT/programacao.html';
             break;
     
         }
         case 7:{
-            window.location.href = '/pages/PT/impress3d.html';
+            window.location.href = '/site/pages/PT/impress3d.html';
             break;
     
         }
